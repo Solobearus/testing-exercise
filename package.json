@@ -1,0 +1,19 @@
+{
+  "name": "w6l5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -r esm"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "esm": "^3.2.25",
+    "mocha": "^6.2.2"
+  },
+  "presets": [
+    "@babel/preset-env"
+  ]
+}
